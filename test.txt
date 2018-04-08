@@ -1,0 +1,2 @@
+Library Maven: com.cares:caresiceclient:0.0.1 has broken classes path:   C:\Users\lenovo\.m2\repository\com\cares\caresiceclient\0.0.1\caresiceclient-0.0.1.jar [Fix]
+Library Maven: com.cares:ice:0.0.1 has broken classes path:   C:\Users\lenovo\.m2\repository\com\cares\ice\0.0.1\ice-0.0.1.jar [Fix]
